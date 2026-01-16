@@ -1,3 +1,6 @@
+go mod tidy
+install all required modules
+
 Add go-sqlite3 dependency:
 
 bashgo get github.com/mattn/go-sqlite3
